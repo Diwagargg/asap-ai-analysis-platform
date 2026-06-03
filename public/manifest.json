@@ -1,0 +1,17 @@
+{
+  "name": "ASAP — AI Smart Analysis Platform",
+  "short_name": "ASAP",
+  "description": "Upload, analyze, and understand datasets with AI-powered visual reports.",
+  "start_url": "/home",
+  "display": "standalone",
+  "background_color": "#050510",
+  "theme_color": "#6C63FF",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
